@@ -72,7 +72,7 @@ Bu program bir Android kursu olmanın ötesinde bir programlama kampı olarak pl
 ## Yararlanılacak Temel Kaynaklar:
 
 
-Android Developer Guide: https://developer.android.com/guide/index.html
+Android Developer Guide: [Android Developer Guide](https://developer.android.com/guide/index.html)
 
 Thinking in JAVA, _Bruce Eckel_
 
