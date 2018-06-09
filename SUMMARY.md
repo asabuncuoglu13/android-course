@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Prepare your Android Development Environment](README.md)
 
