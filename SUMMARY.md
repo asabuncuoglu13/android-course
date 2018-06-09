@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Prepare your Android Development Environment](README.md)
+* [Syllabus](./Syllabus.md)
+* [Installation Guide](./InstallationGuide.md)
+* [Resources](./Resources.md)
 
